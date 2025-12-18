@@ -5,7 +5,7 @@ hide: true
 show_reading_time: false
 ---
 
-Hi! Our name are Mr. Sediqi, Mr. Sharma, and Mr. Antonio
+Hi! Our name are Mr. Sediqi, Mr. Sharma, and Mr. Antonio, Mr. Sharma is a poopy butt
 
 ### Development Environment
 
