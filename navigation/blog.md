@@ -1,6 +1,6 @@
 ---
-layout: blogs 
-title: Blogs
+layout: blogs
+title: Lesson
 search_exclude: true
-permalink: /blogs/
+permalink: /lesson/
 ---
