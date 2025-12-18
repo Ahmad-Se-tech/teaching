@@ -5,7 +5,7 @@ hide: true
 show_reading_time: false
 ---
 
-Hi! My name is [Your Full Name]
+Hi! Our name are Mr. Sediqi, Mr. Sharma, and Mr. Antonio
 
 ### Development Environment
 
