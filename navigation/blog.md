@@ -2,7 +2,9 @@
 layout: blogs
 title: Lesson
 search_exclude: true
-permalink: /lesson/
+permalink: /teachingfundamentals
 ---
 
+# Javascript Fundamentals
 
+## Nested Operations
