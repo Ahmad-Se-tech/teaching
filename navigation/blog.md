@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Lesson
 search_exclude: true
 permalink: /teachingfundamentals
 ---
 
-# Javascript Fundamentals
+# Lesson
 
+## Javascript Fundamentals
+
+### Nested Conditionals
