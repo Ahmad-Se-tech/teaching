@@ -5,4 +5,6 @@ search_exclude: true
 permalink: /teachingfundamentals
 ---
 
-### Javascript Fundamentals
+# Javascript Fundamentals
+
+
